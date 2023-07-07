@@ -3,14 +3,12 @@
 ## About Me 🌟 [![](https://visitcount.itsvg.in/api?id=adexh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 Greetings! I'm a passionate learner and developer with 2 years of Node.js experience. I'm on a quest for knowledge, constantly seeking out new technologies to improve my performance and stay ahead of the game. If there's an exciting challenge out there, you can bet I'll be sinking my teeth into it! 🚀💡
-
-# Mind Map of My Computer Science Journey 🧠
-
-You can explore my mind map on MindMeister, where I organize and expand my understanding of various computer science domains. It's an ever-evolving project, constantly growing as I delve deeper into the world of technology.
+#
+![Adesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adexh&theme=react-dark)
+You can explore my mind map on [MindMeister](https://mm.tt/app/map/2847653601?t=T9iBlY6H4M) 🧠, where I organize and expand my understanding of various computer science domains. It's an ever-evolving project, constantly growing as I delve deeper into the world of technology.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## Work Experience 💼
 
 In my previous roles, I've had the pleasure of working with some remarkable teams. Currently, I'm rocking the Node.js world as a developer, crafting AWS Lambda functions and diving into the depths of PostgreSQL. I've even sprinkled some magic into the mix with PostgreSQL's full-text search, taking search functionality to new heights. Prior to that, I worked my coding magic as a Developer at TCS Quartz Compliance, where I danced with Node.js and Kafka, conjuring up real-time microservices that brought harmony to different systems. 💻🔮
