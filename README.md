@@ -2,7 +2,7 @@
 
 ## About Me 🌟 [![](https://visitcount.itsvg.in/api?id=adexh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Greetings! I'm a passionate learner and developer with 2 years of experience as Node.js Backend Developer. I'm on a quest for knowledge, constantly seeking out new technologies to improve my performance and stay ahead of the game. If there's an exciting challenge out there, you can bet I'll be sinking my teeth into it! 🚀💡
+Greetings! I'm a passionate learner and developer with 4 years of experience as Node.js Backend Developer. I'm on a quest for knowledge, constantly seeking out new technologies to improve my performance and stay ahead of the game. If there's an exciting challenge out there, you can bet I'll be sinking my teeth into it! 🚀💡
 
 You can explore my mind map on [MindMeister](https://mm.tt/app/map/2847653601?t=T9iBlY6H4M) 🧠
 
